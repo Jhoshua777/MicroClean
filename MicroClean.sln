@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34302.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Vista", "Vista\Vista.vbproj", "{521A5B9B-5261-45B0-AC73-545FD42A5F28}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Modelo", "Modelo\Modelo.vbproj", "{F56E1037-7836-4F52-A73A-907697CD0552}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Controlador", "Controlador\Controlador.vbproj", "{F64D398F-E1A6-4E64-9D62-9685AFE3E429}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{521A5B9B-5261-45B0-AC73-545FD42A5F28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{521A5B9B-5261-45B0-AC73-545FD42A5F28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{521A5B9B-5261-45B0-AC73-545FD42A5F28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{521A5B9B-5261-45B0-AC73-545FD42A5F28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F56E1037-7836-4F52-A73A-907697CD0552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F56E1037-7836-4F52-A73A-907697CD0552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F56E1037-7836-4F52-A73A-907697CD0552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F56E1037-7836-4F52-A73A-907697CD0552}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F64D398F-E1A6-4E64-9D62-9685AFE3E429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F64D398F-E1A6-4E64-9D62-9685AFE3E429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F64D398F-E1A6-4E64-9D62-9685AFE3E429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F64D398F-E1A6-4E64-9D62-9685AFE3E429}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EFD5721-0A11-4816-83BA-2598CECFB4FA}
+	EndGlobalSection
+EndGlobal
